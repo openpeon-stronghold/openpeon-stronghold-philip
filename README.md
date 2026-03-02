@@ -6,6 +6,8 @@
 
 King Philip sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) — voice lines from King Philip in Stronghold Crusader.
 
+King Philip is a haughty, self-assured French king who never lets anyone forget his royal station. Quick to take offence and slow to forgive, he is nonetheless a capable commander whose pride translates into genuine battlefield ferocity when his honour is at stake.
+
 ## Install
 
 ```bash
